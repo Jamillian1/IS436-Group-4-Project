@@ -1,8 +1,8 @@
 # Chat Application
 
 ## GROUP MEMBERS
-Kasturi Vedantham, n181@umbc.edu
-Salman Jamil, sjamil3@umbc.edu
+1. Kasturi Vedantham, n181@umbc.edu
+2. Salman Jamil, sjamil3@umbc.edu
 
 
 ## How to Run
