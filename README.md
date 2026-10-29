@@ -8,7 +8,7 @@
 ## How to Run
 1. Start server: `python proj_server.py <port>`
 2. In a different terminal, start the client: `python proj_client.py <port>`
-3. Type "exit" in the client to disconnect.
+3. Typing "exit" in the client to disconnect.
 
 ## Implemented Features
 - server, client, welcome messages, graceful exit
