@@ -1,4 +1,4 @@
-# Chat Application
+# Help Desk ChatBot Application
 
 ## GROUP MEMBERS
 1. Kasturi Vedantham, n181@umbc.edu
